@@ -1,0 +1,9 @@
+/* 🚨 This must be the FIRST line in your main CSS file */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+/* Tailwind CSS imports should come AFTER the @import url() */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your other custom CSS styles can come after Tailwind's imports */
