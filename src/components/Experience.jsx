@@ -9,6 +9,16 @@ const Experience = () => {
 
   const experiences = [
     {
+      title: 'Automation Engineer Trainee',
+      company: 'Nikini Automation Systems Pvt Ltd - Control Division',
+      period: 'August 2025 - November 2025',
+      description: 'Gained expertise in PLC programming and industrial automation, with hands-on experience on Siemens devices and systems.',
+      icon: Briefcase,
+      image: '/nikini.jpg', // Placeholder for image path
+      link: 'https://www.nikini.lk/', // Link to the company's website
+      modalDescription: 'As an Automation Engineer Trainee at Nikini Automation Systems, I gained practical skills in PLC programming and HMI design. My role involved hands-on work with Siemens devices, including troubleshooting, maintenance, and system upgrades for various industrial clients. I also had the opportunity to visit and collaborate with multiple companies, providing me with valuable real-world experience in the field of industrial automation.'
+    },
+    {
       title: 'Electrical & Electronic Engineer Trainee',
       company: 'SLT Digital Lab - Sri Lanka Telecom Research And Development Section',
       period: 'June 2024 - September 2024',
