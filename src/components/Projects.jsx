@@ -35,10 +35,10 @@ const Projects = () => {
       status: 'Completed'
     },
     {
-      id: 'jr25-robot',
-      title: 'JR-25 Real Time Robot',
-      description: 'Developing a multimodal AI robot using NVIDIA Jetson Nano for real-time video/voice processing, integrating Gemini API for advanced NLP/vision tasks.',
-      tags: ['Python', 'OpenCV', 'Gemini API', 'ROS'],
+      id: 'Nova-robot',
+      title: '12-DOF Robotic Dog with Enchanced Navigation',
+      description: 'Designed and built a 12-Degrees-of-Freedom quadrupedal robot with Enchanced Navigation which is adaptable to uneven terrain as a final year engineering project in a three-student collaborative group.',
+      tags: ['SolidWorks', 'MATLAB', 'ROS', 'Python', 'C++', 'Robotics'],
       image: '🤖',
       status: 'Ongoing'
     }
